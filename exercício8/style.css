@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+.Imagem{
+    display: block;
+    margin: 0 auto;
+    border: 5px solid white;
+    text-align: center;
+      
+}
+#um {
+    color: aliceblue;
+    font-family: "Libre Baskerville", serif;
+    font-optical-sizing: auto;
+    font-weight: 400; /* ou 700, dependendo do peso que quiser */
+    font-style: normal;
+    text-align: center;
+  }
+
+.Texto{
+    color: aliceblue;
+    text-align: center ;
+}
+
+div {
+    text-align: center;
+}
